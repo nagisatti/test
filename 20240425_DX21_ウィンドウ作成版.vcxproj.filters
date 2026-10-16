@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="シェーダーファイル">
+      <UniqueIdentifier>{58d4bb06-255b-4fbd-91ad-b93ccb36feb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="タイトル">
+      <UniqueIdentifier>{fd53c820-7e19-401a-832c-4e640458b110}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="リザルト">
+      <UniqueIdentifier>{87a8a8cc-5f20-4254-9967-6a9662d54134}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ゲーム">
+      <UniqueIdentifier>{9f42a224-e9e9-4639-a3c0-3b5beb719e04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="システム">
+      <UniqueIdentifier>{abedfd3f-ac58-4572-bfae-9b3193f570e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="追加オブジェクト">
+      <UniqueIdentifier>{6b7d41c2-3c9d-4cb0-b480-0f0f828bf528}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Title.cpp">
+      <Filter>タイトル</Filter>
+    </ClCompile>
+    <ClCompile Include="Result.cpp">
+      <Filter>リザルト</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>ゲーム</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>ゲーム</Filter>
+    </ClCompile>
+    <ClCompile Include="field.cpp">
+      <Filter>ゲーム</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>ゲーム</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>ゲーム</Filter>
+    </ClCompile>
+    <ClCompile Include="score.cpp">
+      <Filter>ゲーム</Filter>
+    </ClCompile>
+    <ClCompile Include="sprite.cpp">
+      <Filter>システム</Filter>
+    </ClCompile>
+    <ClCompile Include="shader.cpp">
+      <Filter>システム</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager.cpp">
+      <Filter>システム</Filter>
+    </ClCompile>
+    <ClCompile Include="keyboard.cpp">
+      <Filter>システム</Filter>
+    </ClCompile>
+    <ClCompile Include="fade.cpp">
+      <Filter>システム</Filter>
+    </ClCompile>
+    <ClCompile Include="direct3d.cpp">
+      <Filter>システム</Filter>
+    </ClCompile>
+    <ClCompile Include="Audio.cpp">
+      <Filter>システム</Filter>
+    </ClCompile>
+    <ClCompile Include="debug_ostream.cpp">
+      <Filter>システム</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="polygon.cpp">
+      <Filter>ゲーム</Filter>
+    </ClCompile>
+    <ClCompile Include="Polygon3D.cpp">
+      <Filter>追加オブジェクト</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="direct3d.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="debug_ostream.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="polygon.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="shader.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Title.h">
+      <Filter>タイトル</Filter>
+    </ClInclude>
+    <ClInclude Include="Result.h">
+      <Filter>リザルト</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>ゲーム</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>ゲーム</Filter>
+    </ClInclude>
+    <ClInclude Include="field.h">
+      <Filter>ゲーム</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>ゲーム</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>ゲーム</Filter>
+    </ClInclude>
+    <ClInclude Include="score.h">
+      <Filter>ゲーム</Filter>
+    </ClInclude>
+    <ClInclude Include="sprite.h">
+      <Filter>システム</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager.h">
+      <Filter>システム</Filter>
+    </ClInclude>
+    <ClInclude Include="keyboard.h">
+      <Filter>システム</Filter>
+    </ClInclude>
+    <ClInclude Include="fade.h">
+      <Filter>システム</Filter>
+    </ClInclude>
+    <ClInclude Include="Audio.h">
+      <Filter>システム</Filter>
+    </ClInclude>
+    <ClInclude Include="Polygon3D.h">
+      <Filter>追加オブジェクト</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="shader_pixel_2d.hlsl">
+      <Filter>シェーダーファイル</Filter>
+    </FxCompile>
+    <FxCompile Include="shader_vertex_2d.hlsl">
+      <Filter>シェーダーファイル</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

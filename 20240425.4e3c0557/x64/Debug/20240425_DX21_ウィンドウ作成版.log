@@ -1,0 +1,100 @@
+﻿  compilation object save succeeded; see C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\shader_pixel_2d.cso
+  compilation object save succeeded; see C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\shader_vertex_2d.cso
+  Audio.cpp
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\direct3d.h(19,46): warning C4081: 'newline' が必要です ; ';' が見つかりました。
+  (ソース ファイル 'Audio.cpp' をコンパイルしています)
+  
+  Block.cpp
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\direct3d.h(19,46): warning C4081: 'newline' が必要です ; ';' が見つかりました。
+  (ソース ファイル 'Block.cpp' をコンパイルしています)
+  
+  debug_ostream.cpp
+  direct3d.cpp
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\direct3d.h(19,46): warning C4081: 'newline' が必要です ; ';' が見つかりました。
+  (ソース ファイル 'direct3d.cpp' をコンパイルしています)
+  
+  Effect.cpp
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\direct3d.h(19,46): warning C4081: 'newline' が必要です ; ';' が見つかりました。
+  (ソース ファイル 'Effect.cpp' をコンパイルしています)
+  
+  fade.cpp
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\direct3d.h(19,46): warning C4081: 'newline' が必要です ; ';' が見つかりました。
+  (ソース ファイル 'fade.cpp' をコンパイルしています)
+  
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\fade.cpp(68,19): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\fade.cpp(120,17): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  field.cpp
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\direct3d.h(19,46): warning C4081: 'newline' が必要です ; ';' が見つかりました。
+  (ソース ファイル 'field.cpp' をコンパイルしています)
+  
+  Game.cpp
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\direct3d.h(19,46): warning C4081: 'newline' が必要です ; ';' が見つかりました。
+  (ソース ファイル 'Game.cpp' をコンパイルしています)
+  
+  keyboard.cpp
+  main.cpp
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\direct3d.h(19,46): warning C4081: 'newline' が必要です ; ';' が見つかりました。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\main.cpp(202,7): warning C4101: 'hdc': ローカル変数は 1 度も使われていません。
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\main.cpp(200,10): warning C4101: 'hbrWhite': ローカル変数は 1 度も使われていません。
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\main.cpp(203,14): warning C4101: 'ps': ローカル変数は 1 度も使われていません。
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\main.cpp(200,20): warning C4101: 'hbrGray': ローカル変数は 1 度も使われていません。
+  Manager.cpp
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\direct3d.h(19,46): warning C4081: 'newline' が必要です ; ';' が見つかりました。
+  (ソース ファイル 'Manager.cpp' をコンパイルしています)
+  
+  player.cpp
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\direct3d.h(19,46): warning C4081: 'newline' が必要です ; ';' が見つかりました。
+  (ソース ファイル 'player.cpp' をコンパイルしています)
+  
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\player.cpp(123,13): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\player.cpp(214,8): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\player.cpp(255,30): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\player.cpp(257,28): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\player.cpp(311,32): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\player.cpp(313,27): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  polygon.cpp
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\direct3d.h(19,46): warning C4081: 'newline' が必要です ; ';' が見つかりました。
+  (ソース ファイル 'polygon.cpp' をコンパイルしています)
+  
+  Polygon3D.cpp
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\direct3d.h(19,46): warning C4081: 'newline' が必要です ; ';' が見つかりました。
+  (ソース ファイル 'Polygon3D.cpp' をコンパイルしています)
+  
+  Result.cpp
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\direct3d.h(19,46): warning C4081: 'newline' が必要です ; ';' が見つかりました。
+  (ソース ファイル 'Result.cpp' をコンパイルしています)
+  
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\Result.cpp(32,10): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\Result.cpp(50,11): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  score.cpp
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\direct3d.h(19,46): warning C4081: 'newline' が必要です ; ';' が見つかりました。
+  (ソース ファイル 'score.cpp' をコンパイルしています)
+  
+  shader.cpp
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\direct3d.h(19,46): warning C4081: 'newline' が必要です ; ';' が見つかりました。
+  (ソース ファイル 'shader.cpp' をコンパイルしています)
+  
+  sprite.cpp
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\direct3d.h(19,46): warning C4081: 'newline' が必要です ; ';' が見つかりました。
+  (ソース ファイル 'sprite.cpp' をコンパイルしています)
+  
+  Title.cpp
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\direct3d.h(19,46): warning C4081: 'newline' が必要です ; ';' が見つかりました。
+  (ソース ファイル 'Title.cpp' をコンパイルしています)
+  
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\Title.cpp(32,10): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\Title.cpp(50,11): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+DirectXTex_Debug.lib(DirectXTexImage.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(DirectXTexImage.obj)' で、または 'C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexWIC.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(DirectXTexWIC.obj)' で、または 'C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexD3D11.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(DirectXTexD3D11.obj)' で、または 'C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexUtil.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(DirectXTexUtil.obj)' で、または 'C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexConvert.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(DirectXTexConvert.obj)' で、または 'C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexCompress.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(DirectXTexCompress.obj)' で、または 'C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexMipMaps.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(DirectXTexMipMaps.obj)' で、または 'C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(BC.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(BC.obj)' で、または 'C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(BC4BC5.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(BC4BC5.obj)' で、または 'C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(BC6HBC7.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(BC6HBC7.obj)' で、または 'C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  20240425_DX21_ウィンドウ作成版.vcxproj -> C:\Users\haltokyo\Desktop\渡邉オンラインセット\_2026年度\00_科目担当\11_DX22\授業用\20251015DX2ポリゴン3D\x64\Debug\20240425_DX21_ウィンドウ作成版.exe
